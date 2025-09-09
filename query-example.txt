@@ -1,0 +1,9 @@
+SELECT * FROM \`Extended Game Statistics\` gs
+JOIN \`Players\` p ON p.\`ID\` = gs.\`Player ID\`
+JOIN \`Games\` g ON g.\`ID\` = gs.\`Game ID\`
+WHERE g.\`Season\` = ${season}
+ORDER BY g.\`Start Timestamp\` DESC
+LIMIT ${LIMIT} OFFSET ${offset}
+
+
+tables.json has whole tables. If you want, I can show any table

@@ -1,0 +1,27 @@
+[
+  {
+    "ID": 1,
+    "WNBAID": "1029700001",
+    "Season": 1997,
+    "Start Timestamp": "1997-06-21T16:00:00.000Z",
+    "Home Team Id": 219,
+    "Home Team Coach ID": 63,
+    "Home Team Coach2 ID": null,
+    "Away Team Id": 220,
+    "Away Team Coach ID": 19,
+    "Away Team Coach2 ID": null,
+    "Winning Team ID": 220,
+    "Arena": "Great Western Forum",
+    "Game Type": "Regular season",
+    "Cup": 0,
+    "Home Team Score": 57,
+    "Away Team Score": 67,
+    "Attendance": 14284,
+    "Box Score": "http://www.wnba.com/game/19970621/NYLLAS/",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Last Updated": "2024-05-24T01:29:58.000Z",
+    "Season Segment": "Regular Season",
+    "ArenaCapacity": 0
+  }
+]

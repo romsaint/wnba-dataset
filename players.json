@@ -1,0 +1,24 @@
+[
+  {
+    "ID": 1,
+    "PWNBAID": "100076",
+    "UniqueID": "Tina Thompson",
+    "Name": "Tina Thompson",
+    "Last Name": "Thompson",
+    "First Name": "Tina",
+    "Birth Date": "1975-02-10T00:00:00.000Z",
+    "Position": "F",
+    "Rookie Year": 1997,
+    "Active": 0,
+    "From City": "Los Angeles",
+    "From State-Country": "California",
+    "Current Team ID": null,
+    "Last Team ID": null,
+    "WNBA": 1,
+    "ABL": 0,
+    "WBL": 0,
+    "Entry": "Draft",
+    "DraftYear": 1997,
+    "DraftRound": 1
+  }
+]

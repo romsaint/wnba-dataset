@@ -1,0 +1,328 @@
+[
+  [
+    {
+      "Tables_in_wnba": "ABL Season Statistics"
+    },
+    {
+      "Tables_in_wnba": "ALLPlayerSeasons"
+    },
+    {
+      "Tables_in_wnba": "AP"
+    },
+    {
+      "Tables_in_wnba": "AUAwards"
+    },
+    {
+      "Tables_in_wnba": "AUCareerStatisticRankings"
+    },
+    {
+      "Tables_in_wnba": "AUDrafts"
+    },
+    {
+      "Tables_in_wnba": "AUFacilitators"
+    },
+    {
+      "Tables_in_wnba": "AUFranchises"
+    },
+    {
+      "Tables_in_wnba": "AUGameStatistics"
+    },
+    {
+      "Tables_in_wnba": "AUGames"
+    },
+    {
+      "Tables_in_wnba": "AUGamesByTeam"
+    },
+    {
+      "Tables_in_wnba": "AUPlayerData"
+    },
+    {
+      "Tables_in_wnba": "AUPlayers"
+    },
+    {
+      "Tables_in_wnba": "AUTeamGameStatistics"
+    },
+    {
+      "Tables_in_wnba": "AUTeams"
+    },
+    {
+      "Tables_in_wnba": "AUTrades"
+    },
+    {
+      "Tables_in_wnba": "AbsLastPlayerGameDates"
+    },
+    {
+      "Tables_in_wnba": "AbsLastPlayerGames"
+    },
+    {
+      "Tables_in_wnba": "Activations"
+    },
+    {
+      "Tables_in_wnba": "AllStars"
+    },
+    {
+      "Tables_in_wnba": "Arena Capacities"
+    },
+    {
+      "Tables_in_wnba": "AssistantCoaches"
+    },
+    {
+      "Tables_in_wnba": "AwardDetails"
+    },
+    {
+      "Tables_in_wnba": "AwardVotes"
+    },
+    {
+      "Tables_in_wnba": "Awards"
+    },
+    {
+      "Tables_in_wnba": "AwardsPlusAllStars"
+    },
+    {
+      "Tables_in_wnba": "Broadcast"
+    },
+    {
+      "Tables_in_wnba": "Career Statistic Rankings"
+    },
+    {
+      "Tables_in_wnba": "Coach Games Details"
+    },
+    {
+      "Tables_in_wnba": "CoachEntities"
+    },
+    {
+      "Tables_in_wnba": "CoachSeasonsCoached"
+    },
+    {
+      "Tables_in_wnba": "CoachTransactions"
+    },
+    {
+      "Tables_in_wnba": "Coaches"
+    },
+    {
+      "Tables_in_wnba": "Core Service"
+    },
+    {
+      "Tables_in_wnba": "DNPs"
+    },
+    {
+      "Tables_in_wnba": "Dispersal Draft Selections"
+    },
+    {
+      "Tables_in_wnba": "Draft Details"
+    },
+    {
+      "Tables_in_wnba": "Draft Lottery"
+    },
+    {
+      "Tables_in_wnba": "Draft Picks"
+    },
+    {
+      "Tables_in_wnba": "Elite Draft Picks"
+    },
+    {
+      "Tables_in_wnba": "Episodes"
+    },
+    {
+      "Tables_in_wnba": "Event Links"
+    },
+    {
+      "Tables_in_wnba": "Events"
+    },
+    {
+      "Tables_in_wnba": "ExecutiveEntities"
+    },
+    {
+      "Tables_in_wnba": "ExecutiveTransactions"
+    },
+    {
+      "Tables_in_wnba": "Executives"
+    },
+    {
+      "Tables_in_wnba": "Expansion Draft Selections"
+    },
+    {
+      "Tables_in_wnba": "Extended Game Statistics"
+    },
+    {
+      "Tables_in_wnba": "Extended Team Game Statistics"
+    },
+    {
+      "Tables_in_wnba": "FirstPlayerGameDates"
+    },
+    {
+      "Tables_in_wnba": "FirstPlayerGames"
+    },
+    {
+      "Tables_in_wnba": "FirstTeamGameDates"
+    },
+    {
+      "Tables_in_wnba": "FranchiseEntities"
+    },
+    {
+      "Tables_in_wnba": "Franchises"
+    },
+    {
+      "Tables_in_wnba": "GMSurveyQuestion"
+    },
+    {
+      "Tables_in_wnba": "GMSurveyResponse"
+    },
+    {
+      "Tables_in_wnba": "Game Details"
+    },
+    {
+      "Tables_in_wnba": "Game Statistics"
+    },
+    {
+      "Tables_in_wnba": "Game Team Statistics"
+    },
+    {
+      "Tables_in_wnba": "GameData"
+    },
+    {
+      "Tables_in_wnba": "GameNums"
+    },
+    {
+      "Tables_in_wnba": "Games"
+    },
+    {
+      "Tables_in_wnba": "GamesByTeam"
+    },
+    {
+      "Tables_in_wnba": "Hall of Fame"
+    },
+    {
+      "Tables_in_wnba": "Key Dates"
+    },
+    {
+      "Tables_in_wnba": "LastPlayerGameDates"
+    },
+    {
+      "Tables_in_wnba": "LastPlayerGames"
+    },
+    {
+      "Tables_in_wnba": "LastTeamGames"
+    },
+    {
+      "Tables_in_wnba": "Links"
+    },
+    {
+      "Tables_in_wnba": "NCAA"
+    },
+    {
+      "Tables_in_wnba": "Outlets"
+    },
+    {
+      "Tables_in_wnba": "Player Ages"
+    },
+    {
+      "Tables_in_wnba": "Player Allocations"
+    },
+    {
+      "Tables_in_wnba": "Player Data"
+    },
+    {
+      "Tables_in_wnba": "PlayerAwardsByYear"
+    },
+    {
+      "Tables_in_wnba": "PlayerEntities"
+    },
+    {
+      "Tables_in_wnba": "PlayerGameCounts"
+    },
+    {
+      "Tables_in_wnba": "PlayerGameDates"
+    },
+    {
+      "Tables_in_wnba": "PlayerGameGaps"
+    },
+    {
+      "Tables_in_wnba": "PlayerH2H"
+    },
+    {
+      "Tables_in_wnba": "PlayerSeasonGameCounts"
+    },
+    {
+      "Tables_in_wnba": "PlayerSeasonNum"
+    },
+    {
+      "Tables_in_wnba": "PlayerSeasonsPlayed"
+    },
+    {
+      "Tables_in_wnba": "Players"
+    },
+    {
+      "Tables_in_wnba": "Podcasts"
+    },
+    {
+      "Tables_in_wnba": "RankDates"
+    },
+    {
+      "Tables_in_wnba": "Rankings"
+    },
+    {
+      "Tables_in_wnba": "Records"
+    },
+    {
+      "Tables_in_wnba": "Releases"
+    },
+    {
+      "Tables_in_wnba": "SeasonMarkers"
+    },
+    {
+      "Tables_in_wnba": "SeasonalLastTeamGames"
+    },
+    {
+      "Tables_in_wnba": "Signings"
+    },
+    {
+      "Tables_in_wnba": "Statistics"
+    },
+    {
+      "Tables_in_wnba": "Suspensions"
+    },
+    {
+      "Tables_in_wnba": "Team Game Statistics"
+    },
+    {
+      "Tables_in_wnba": "Team Only Statistics"
+    },
+    {
+      "Tables_in_wnba": "TeamEntities"
+    },
+    {
+      "Tables_in_wnba": "TeamExperience"
+    },
+    {
+      "Tables_in_wnba": "TeamGameStatistics"
+    },
+    {
+      "Tables_in_wnba": "TeamGames"
+    },
+    {
+      "Tables_in_wnba": "TeamSeason"
+    },
+    {
+      "Tables_in_wnba": "Teams"
+    },
+    {
+      "Tables_in_wnba": "Trade Items"
+    },
+    {
+      "Tables_in_wnba": "Trades"
+    },
+    {
+      "Tables_in_wnba": "Transactions"
+    },
+    {
+      "Tables_in_wnba": "WNBAChampTeams"
+    },
+    {
+      "Tables_in_wnba": "Waiver Clearings"
+    },
+    {
+      "Tables_in_wnba": "Waivers"
+    }
+  ]
+]
